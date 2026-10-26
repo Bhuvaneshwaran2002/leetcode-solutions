@@ -1,4 +1,4 @@
-# Count Islands With Total Value Divisible by K
+# Count Islands With Total Value Divisible by K .
 
 [Problem](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/)
 
